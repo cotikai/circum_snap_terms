@@ -1,4 +1,4 @@
-# Circum Snap 利用規約
+# 利用規約
 ### 最終更新日：2026年2月21日<br>
 [English version is available here.](terms_eng.md)
 
