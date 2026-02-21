@@ -1,7 +1,7 @@
 # README
 Circum Snapの利用規約とプライバシーポリシーの公開ページです。
 
-- [Circum Snap利用規約](https://github.com/cotikai/circum_snap_terms/blob/788aafd3f8f5d137bf475bf28fa03933493a4c7c/terms.md)
+- [Circum Snap利用規約](terms.md) / [Terms of Service](terms_eng.md)
 
-- [プライバシーポリシー](https://github.com/cotikai/circum_snap_terms/blob/d0c83c56f7a998995c1390c7eb76f00247ba15f5/privacy_policy.md)
+- [プライバシーポリシー](privacy_policy.md)
 
