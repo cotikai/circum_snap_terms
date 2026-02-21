@@ -1,5 +1,7 @@
 # Privacy Policy
 ### Last Updated: February 21, 2026
+[日本語版はコチラ](privacy_policy.md)<br>
+<br>
 This Privacy Policy ("Policy") explains how Cotikai ("the Developer") handles user information and data within the application Circum Snap ("the App"). 
 By using the App, you are deemed to have agreed to this Policy.
 
