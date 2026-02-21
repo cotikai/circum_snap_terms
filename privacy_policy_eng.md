@@ -1,12 +1,12 @@
 # Privacy Policy
-### Last Updated: February 21, 2006
+### Last Updated: February 21, 2026
 This Privacy Policy ("Policy") explains how Cotikai ("the Developer") handles user information and data within the application Circum Snap ("the App"). 
 By using the App, you are deemed to have agreed to this Policy.
 
 ## 1. Information We Collect
 The App may collect the following types of information.<br>
-### Information Automatically Collected With in the App<br>
-The App may allow third-party services to collect the following information for advertising and app improvement puposes:
+### Information Automatically Collected Within the App<br>
+The App may allow third-party services to collect the following information for advertising and app improvement purposes:
 - Advertising ID
 - App usage data
 - Crash logs
@@ -25,6 +25,7 @@ Collected information is used for the following purposes:
 - Displaying and optimizing advertisements
 - Improving app quality and fixing bugs
 - Enhancing features based on usage analysis
+
 The Developer does not use collected information to identify individual users.
 
 ## 3. Third-Party Services
@@ -40,7 +41,7 @@ For details, please refer to the privacy policies of each service.
 - Rights to images captured or edited by the user belong to the user.
 
 ## 5. User Rights
-Users may reset their advertising ID or disable personalized asd.
+Users may reset their advertising ID or disable personalized ads.
 These settings can be changed from the device's system settings.
 
 ## 6. Changes to This Policy
