@@ -1,6 +1,6 @@
 # プライバシーポリシー
 ### 最終更新日：2026年2月21日
-[English version is available](privacy_policy_eng.md)<br>
+[English version is available here.](privacy_policy_eng.md)<br>
 <br>
 本プライバシーポリシー(以下「本ポリシー」)は、Cotikai(以下「開発者」)が提供するアプリ「Circum Snap」(以下「本アプリ」)における、ユーザーの個人情報およびデータの取り扱いについて定めるものです。
 本アプリを利用することで、本ポリシーに同意したものとみなします。
