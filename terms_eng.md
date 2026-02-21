@@ -1,5 +1,7 @@
 # Terms of Service
-### Last updated: February 21, 2026
+### Last updated: February 21, 2026<br>
+[日本語版はコチラ](https://github.com/cotikai/circum_snap_terms/blob/da27492b6edb58b06f616af14eaeb108eb0ad99d/terms.md)<br>
+
 These Terms of Service ("Terms") apply to the mobile application Circum Snap ("the App"), provided by Cotikai ("we", "us", or "our"). <br>
 By using the App, you agree to these Terms.
 
