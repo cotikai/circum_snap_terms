@@ -51,7 +51,7 @@
 ## 第7条 (お問い合わせ)
 本ポリシーに関するお問い合わせは、以下のフォームからお問い合わせください。<br>
 <br>
-[お問い合わせ用Google Form]()<br>
+[お問い合わせ用Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdYLACPUWMzg3gHnhl1iuiqwX0b6aXifjnW1bfB7VE6rjoQEw/viewform?usp=publish-editor)<br>
 <br>
 お問い合わせフォームでは、返信が必要な場合に限り、任意でメールアドレスをご入力いただくことがあります。
 ご提供いただいたメールアドレスは、お問い合わせへの回答のためだけに使用し、それ以外の目的では利用しません。
